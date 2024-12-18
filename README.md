@@ -1,77 +1,80 @@
-## 🌸 About me
-I'm passinate about game development and mobile app development. I've been learning to develop games on various languages and libraries/frameworks, including PyGame, SDL, SFML, MonoGame, macroquad, ggez, etc.
+### 🌸 About me
+I'm passinate about game development and mobile app development. I've been learning to develop games using various languages and libraries, including PyGame, SDL, SFML, MonoGame, macroquad, ggez, etc.
 
 <br />
 
-## 💜 Libraries
+### 💜 Libraries
 
-### Mercury Game Library
-&emsp; A 2D game library for C
-
-<br />
-
-## 💜 Games
-
-### [Warehouse Mania](https://github.com/oosubhisara/WarehouseMania) 
-&emsp; *Sokuban style game in 3D written in C++, SDL2 and OpenGL*
-
-### [RoboBox](https://github.com/oosubhisara/RoboBox)
-&emsp; *Sokuban style game for Android written in Lua and Solar2D*
-
-### Color Lines
-&emsp; *A recreation of a DOS game using C and my Mercury game library*
-
-### Monster Hunt
-&emsp; *A match-3 game written in Go*
-
-### Space Invader
-&emsp; *A recreation of a classic game using TypeScript and HTML5
-
-### Mini Space
-&emsp; *A space shooter game written in C# and MonoGame.*
+Mercury Game Library
+&emsp; *A 2D game library for C &emsp; (C)*
 
 <br />
 
-## 💜 Apps
+### 💜 Games
 
-### Shopping List
-&emsp; *A shoping list app for Android. Written in Java.*
+[Warehouse Mania](https://github.com/oosubhisara/WarehouseMania) 
+&emsp; *Sokuban style game in 3D &emsp; (C++ / SDL2 / OpenGL)*
 
-### Lottery Randomizer
-&emsp; *An Android app to help you randomly pick a lottery number. Written in TypeScript and Phaser 3.*
+[RoboBox](https://github.com/oosubhisara/RoboBox)
+&emsp; *Sokuban style game for Android &emsp; (Lua / Solar2D)*
 
-### DevKeeper
-&emsp; *A utility to manage projects written in Java and Swing*
+Color Lines
+&emsp; *A recreation of a DOS game &emsp; (C / Mercury)*
 
-### LunaPak
-&emsp; *A file packer written in Java and Swing*
+Monster Hunt
+&emsp; *A match-3 game &emsp; (Go / ebiten)*
 
-### Batch Watermark
-&emsp; *A SPA web app to apply a watermark to images in batch*
+Space Invader
+&emsp; *A recreation of a classic game &emsp; (TypeScript / HTML5)*
 
-### Might and Magic VI Save Editor
-&emsp; *A utility to manage and edit Might and Magic VI's save files written in Java and JavaFX*
+Mini Space
+&emsp; *A space shooter game &emsp; (C# / MonoGame)*
 
 <br />
 
-## 💜 Data Structures and Algorithms
+### 💜 Apps
 
-### Math Expression Calculator
-&emsp; CLI math expression calculator written in Java*
+Shopping List
+&emsp; *A shoping list app for Android &emsp; (Java)*
+
+Lottery Randomizer
+&emsp; *An Android app to help you randomly pick a lottery number &emsp; (TypeScript / Phaser 3)*
+
+DevKeeper
+&emsp; *A utility to manage projects &emsp; (Java / Swing)*
+
+LunaPak
+&emsp; *A file packer &emsp; (Java / Swing)*
+
+Batch Watermark
+&emsp; *A SPA web app to apply a watermark to images in batch &emsp; (TypeScript / VueJS)* 
+
+Might and Magic VI Save Editor
+&emsp; *A utility to manage and edit Might and Magic VI's save files &emsp; (Java / JavaFX)*
+
+<br />
+
+### 💜 Data Structures and Algorithms
+
+Math Expression Calculator
+&emsp; *CLI math expression calculator &emsp; (Java)*
     
-### Path Finding
-&emsp; Java / JavaFX <br />
-&emsp; Python / PyGame
+Path Finding with Python
+&emsp; *Path finding using breadth-first search &emsp; (Python / PyGame)*
+
+Path Finding with Java
+&emsp; *Path finding using breadth-first search &emsp; (Java / JavaFX)*
+
 
 <br />
 
-## 💜 Graphics
+### 💜 Graphics
 
-### Curve 
-&emsp; *Draw curve lines (D Lang)*
+Curve 
+&emsp; *Draw curve lines &emsp; (D Lang)*
 
-### Line of Sight 
-&emsp; *Line of Sight demo (D Lang)*
+Line of Sight 
+&emsp; *Line of Sight demo &emsp; (D Lang)*
 
   
 
