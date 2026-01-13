@@ -19,7 +19,10 @@ RoboBox
 &emsp; *Sokuban style game for Android &emsp; (Lua / Solar2D)*
 
 [Snake-Rust](https://github.com/oosubhisara/snake-rust)
-&emsp; *Snake game (Rust / macroquad)*
+&emsp; *Snake game &emsp; (Rust / macroquad)*
+
+[Zombie Shooter]()
+&emsp; *Zombie shooter game prototype &emsp; (lua / LÖVE)*
 
 Color Lines
 &emsp; *A recreation of a DOS game &emsp; (C / Mercury)*
@@ -36,6 +39,9 @@ Mini Space
 <br />
 
 ### 💜 Apps
+
+[Color Tile Editor](https://github.com/oosubhisara/color-tile-editor)
+&emsp; *A basic tile editor &emsp; (Rust / ggez)*
 
 Shopping List
 &emsp; *A shoping list app for Android &emsp; (Java)*
