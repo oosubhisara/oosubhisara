@@ -18,10 +18,10 @@ Warehouse Mania
 RoboBox
 &emsp; *Sokuban style game for Android &emsp; (Lua / Solar2D)*
 
-[Snake-Rust](https://github.com/oosubhisara/snake-rust)
+[Rusty Snake](https://github.com/oosubhisara/snake-rust)
 &emsp; *Snake game &emsp; (Rust / macroquad)*
 
-[Zombie Shooter]()
+[Zombie Shooter](https://github.com/oosubhisara/zombie-shooter)
 &emsp; *Zombie shooter game prototype &emsp; (lua / LÖVE)*
 
 Color Lines
