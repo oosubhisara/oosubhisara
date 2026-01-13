@@ -12,11 +12,14 @@ Mercury Game Library
 
 ### 💜 Games
 
-[Warehouse Mania](https://github.com/oosubhisara/WarehouseMania) 
+Warehouse Mania
 &emsp; *Sokuban style game in 3D &emsp; (C++ / SDL2 / OpenGL)*
 
-[RoboBox](https://github.com/oosubhisara/RoboBox)
+RoboBox
 &emsp; *Sokuban style game for Android &emsp; (Lua / Solar2D)*
+
+[Snake-Rust](https://github.com/oosubhisara/snake-rust)
+&emsp; *Snake game (Rust / macroquad)*
 
 Color Lines
 &emsp; *A recreation of a DOS game &emsp; (C / Mercury)*
