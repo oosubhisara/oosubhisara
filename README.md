@@ -49,7 +49,7 @@ LunaPak
 Batch Watermark
 &emsp; *A SPA web app to apply a watermark to images in batch &emsp; (TypeScript / VueJS)* 
 
-Might and Magic VI Save Editor
+[Might and Magic VI Save Editor](https://github.com/oosubhisara/might-and-magic-6-save-editor)
 &emsp; *A utility to manage and edit Might and Magic VI's save files &emsp; (Java / JavaFX)*
 
 <br />
@@ -59,10 +59,10 @@ Might and Magic VI Save Editor
 Math Expression Calculator
 &emsp; *CLI math expression calculator &emsp; (Java)*
     
-Path Finding with Python
+[Path Finding with Python](https://github.com/oosubhisara/python-pathfinding)
 &emsp; *Path finding using breadth-first search &emsp; (Python / PyGame)*
 
-Path Finding with Java
+[Path Finding with Java](https://github.com/oosubhisara/java-pathfinding)
 &emsp; *Path finding using breadth-first search &emsp; (Java / JavaFX)*
 
 
