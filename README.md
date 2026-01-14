@@ -1,8 +1,8 @@
-## 🌸 My Repositories
+## My Repositories
 
 <br />
 
-### 💜 Libraries
+### 🌸 Libraries
 <table>
     <tr>
     	<th>Name</th>
@@ -11,14 +11,14 @@
     </tr>
     <tr>
     	<td>Mercury Game Library</td>
-    	<td>A 2D game library for C</td>
+    	<td>A simple 2D game library for C based on SDL2</td>
     	<td>C</td>
     </tr>
 </table>
 
 <br />
 
-### 💜 Games
+### 🌸 Games
 <table>
     <tr>
     	<th>Name</th>
@@ -27,12 +27,12 @@
     </tr>
     <tr>
     	<td>Warehouse Mania</td>
-    	<td>Sokuban style game in 3D</td>
+    	<td>Sokoban style game in 3D</td>
     	<td>C++ / SDL2 / OpenGL</td>
     </tr>
     <tr>
         <td>RoboBox</td>
-        <td>Sokuban style game for Android</td>
+        <td>Sokoban style game for Android</td>
         <td>Lua / Solar2D</td>
     </tr>
     <tr>
@@ -52,8 +52,8 @@
     </tr>
     <tr>
         <td>Monster Hunt</a></td>
-        <td>A match-3 gamee</td>
-        <td>Go / ebite</td>
+        <td>A match-3 game</td>
+        <td>Go / ebiten</td>
     </tr>
     <tr>
         <td>Space Invader</a></td>
@@ -69,7 +69,7 @@
 
 <br />
 
-### 💜 Apps
+### 🌸 Apps
 <table>
     <tr>
     	<th>Name</th>
@@ -77,7 +77,7 @@
         <th>Language / Library</th>    
     </tr>
     <tr>
-    	<td><a href="https://github.com/oosubhisara/color-tile-editor">Color Tile Editor Mania</a></td>
+    	<td><a href="https://github.com/oosubhisara/color-tile-editor">Color Tile Editor</a></td>
     	<td>A basic tile editor</td>
     	<td>Rust / ggez</td>
     </tr>
@@ -88,12 +88,12 @@
     </tr>
     <tr>
     	<td>Shopping List</td>	
-    	<td>A shoping list app for Android</td>
+    	<td>A shoping list application for Android</td>
     	<td>Java</td>	
     </tr>
     <tr>
     	<td>Lottery Randomizer</td>	
-    	<td>An Android app to help you randomly pick a lottery number</td>
+    	<td>An Android application to randomly pick a lottery number</td>
     	<td>TypeScript / Phaser 3</td>	
     </tr>
     <tr>
@@ -108,14 +108,14 @@
     </tr>
     <tr>
     	<td>Batch Watermark</td>	
-    	<td>A SPA web app to apply a watermark to images in batch</td>
-    	<td>TypeScript / VueJS</td>	
+    	<td>A SPA to apply a watermark to images in batch</td>
+    	<td>TypeScript / Vue.JS</td>	
     </tr>
 </table>
 
 <br />
 
-### 💜 Data Structures and Algorithms
+### 🌸 Data Structures and Algorithms
 <table>
     <tr>
     	<th>Name</th>
