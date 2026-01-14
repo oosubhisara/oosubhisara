@@ -11,7 +11,6 @@ Mercury Game Library
 <br />
 
 ### 💜 Games
-
 Warehouse Mania
 &emsp; *Sokuban style game in 3D &emsp; (C++ / SDL2 / OpenGL)*
 
@@ -68,12 +67,11 @@ Batch Watermark
 Math Expression Calculator
 &emsp; *CLI math expression calculator &emsp; (Java)*
     
-[Path Finding with Python](https://github.com/oosubhisara/python-pathfinding)
-&emsp; *Path finding using breadth-first search &emsp; (Python / PyGame)*
+[Pathfinding with Python](https://github.com/oosubhisara/python-pathfinding)
+&emsp; *Pathfinding using breadth-first search &emsp; (Python / PyGame)*
 
-[Path Finding with Java](https://github.com/oosubhisara/java-pathfinding)
-&emsp; *Path finding using breadth-first search &emsp; (Java / JavaFX)*
-
+[Pathfinding with Java](https://github.com/oosubhisara/java-pathfinding)
+&emsp; *Pathfinding using breadth-first search &emsp; (Java / JavaFX)*
 
 <br />
 
