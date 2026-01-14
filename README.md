@@ -1,5 +1,4 @@
-### 🌸 About me
-I'm passinate about game development and mobile app development. I've been learning to develop games using various languages and libraries, including PyGame, SDL, SFML, MonoGame, macroquad, ggez, etc.
+## 🌸 My Repositories
 
 <br />
 
@@ -16,6 +15,8 @@ I'm passinate about game development and mobile app development. I've been learn
     	<td>C</td>
     </tr>
 </table>
+
+<br />
 
 ### 💜 Games
 <table>
