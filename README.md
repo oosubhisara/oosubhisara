@@ -6,8 +6,8 @@ I'm passinate about game development and mobile app development. I've been learn
 ### 💜 Libraries
 <table>
     <tr>
-    	<th style="width:30%">Name</th>
-    	<th style="width:30%">Description</th>
+    	<th>Name</th>
+    	<th>Description</th>
         <th>Language / Library</th>    
     </tr>
     <tr>
@@ -73,7 +73,7 @@ I'm passinate about game development and mobile app development. I've been learn
     <tr>
     	<th>Name</th>
     	<th>Description</th>
-    <th>Language / Library</th>    
+        <th>Language / Library</th>    
     </tr>
     <tr>
     	<td><a href="https://github.com/oosubhisara/color-tile-editor">Color Tile Editor Mania</a></td>
@@ -119,7 +119,7 @@ I'm passinate about game development and mobile app development. I've been learn
     <tr>
     	<th>Name</th>
     	<th>Description</th>
-    <th>Language / Library</th>    
+        <th>Language / Library</th>    
     </tr>
     <tr>
     	<td><a href="https://github.com/oosubhisara/python-pathfinding">Pathfinding with Python</a></td>
