@@ -36,6 +36,11 @@
         <td>Lua / Solar2D</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/oosubhisara/capture">Capture</a></td>
+        <td>A mini puzzle game for Commodore 64</td>
+        <td>6502 Assembly</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/oosubhisara/snake-rust">Rusty Snake</a></td>
         <td>Snake game</td>
         <td>Rust / macroqua</td>
