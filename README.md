@@ -17,7 +17,7 @@
 | Warehouse Mania | Sokoban style game in 3D              | C++ / SDL2 / OpenGL   |
 | RoboBox	      | Sokoban style game for Android        | Lua / Solar2D         |
 | [Capture](https://github.com/oosubhisara/capture)         | A mini puzzle game for Commodore 64   | 6502 Assembly         |
-| [Rusty Snake](https://github.com/oosubhisara/snake-rust)     | Snake game                            | Rust / macroqua       |
+| [Rusty Snake](https://github.com/oosubhisara/rusty-snake)     | Snake game                            | Rust / macroqua       |
 | [Zombie Shooter](https://github.com/oosubhisara/zombie-shooter)  | Zombie shooter game prototype         | lua / LÖVE            |
 | Color Lines     | A recreation of a DOS game            | C / Mercury           |
 | Monster Hunt    | A match-3 game                        | Go / ebiten           |
@@ -41,27 +41,12 @@
 <br />
 
 ### 🌸 Data Structures and Algorithms
-<table>
-    <tr>
-    	<th>Name</th>
-    	<th>Description</th>
-        <th>Language / Library</th>    
-    </tr>
-    <tr>
-    	<td><a href="https://github.com/oosubhisara/python-pathfinding">Pathfinding with Python</a></td>
-    	<td>Pathfinding using breadth-first search</td>
-    	<td>Python / PyGame</td>
-    </tr>
-    <tr>
-    	<td><a href="https://github.com/oosubhisara/java-pathfinding">Pathfinding with Java</a></td>
-    	<td>Pathfinding using breadth-first search</td>
-    	<td>Java / JavaFX</td>
-    </tr>
-    <tr>
-    	<td>Math Expression Calculator</td>
-    	<td>CLI math expression calculator</td>
-    	<td>Java</td>
-    </tr>
-</table>
+
+
+| Name            | Description                           | Language / Library    |
+| ---            | ---                                    | :---:                 |
+| [Pathfinding with Python](https://github.com/oosubhisara/python-pathfindin) |	Pathfinding using breadth-first search | Python / PyGame |
+| [Pathfinding with Java](https://github.com/oosubhisara/java-pathfinding) | Pathfinding using breadth-first search | Java / JavaFX |
+| Math Expression Calculator | CLI math expression calculator | Java |
 
 <br />
