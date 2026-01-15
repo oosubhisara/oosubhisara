@@ -31,7 +31,7 @@
 | Name            | Description                           | Language | Library    |
 | ---            | ---                                    | :---:    | :---:        |
 | [Color Tile Editor](https://github.com/oosubhisara/color-tile-editor)	| A basic tile editor | Rust | ggez |
-| [Might and Magic VI Save Editor](https://github.com/oosubhisara/might-and-magic-6-save-editor) | 	A utility to manage and edit Might and Magic VI's save files |	Java | JavaFX |
+| [Might and Magic VI Save Editor](https://github.com/oosubhisara/might-and-magic-6-save-editor) | 	A utility to and edit Might and Magic VI's save files |	Java | JavaFX |
 | Shopping List | 	A shoping list application for Android |	Java | - |
 | Lottery Randomizer |	An Android application to randomly pick a lottery number |	TypeScript | Phaser 3 |
 | DevKeeper |	A utility to manage projects |	Java | Swing |
