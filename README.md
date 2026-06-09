@@ -45,7 +45,7 @@
 
 | Name            | Description                           | Language | Library    |
 | ---            | ---                                    | :---:    | :---:      |
-| [Pathfinding with Python](https://github.com/oosubhisara/python-pathfindin) |	Pathfinding using breadth-first search | Python | PyGame |
+| [Pathfinding with Python](https://github.com/oosubhisara/python-pathfinding) |	Pathfinding using breadth-first search | Python | PyGame |
 | [Pathfinding with Java](https://github.com/oosubhisara/java-pathfinding) | Pathfinding using breadth-first search | Java | JavaFX |
 | Math Expression Calculator | CLI math expression calculator | Java | - |
 
